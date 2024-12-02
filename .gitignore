@@ -1,0 +1,11 @@
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+.vscode
+.DS_Store
+debug_custom.json
+debug.cfg
+debug.svd
+*.svd
